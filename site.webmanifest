@@ -1,0 +1,9 @@
+{
+  "name": "Wedding Terminal",
+  "description": "Nitin & Aarushi wedding terminal.",
+  "start_url": "/",
+  
+  "theme_color": "#1d2a35",
+  "background_color": "#1d2a35",
+  "display": "standalone"
+}
